@@ -1,6 +1,3 @@
-````md
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Diogo%20Siqueira&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
@@ -9,7 +6,7 @@
 
 ### 👾 `kazoom02`
 
-I enjoy turning ideas into actual projects — from **games and gameplay systems**
+I enjoy turning ideas into actual projects from **games and gameplay systems**
 to **web applications, utilities and tools**.
 
 </div>
@@ -54,7 +51,9 @@ public class Diogo
 <tr>
 <td width="50%" valign="top">
 
-## ⚔️ [ECHOFORM](https://github.com/kazoom02/ECHOFORM)
+<p>
+  <h2><strong>⚔️ ECHOFORM</strong><a href="https://github.com/kazoom02/ECHOFORM">↗</a></h2>
+</p>
 
 A **2D turn-based combat game** developed with **Unity and C#**.
 
@@ -79,7 +78,9 @@ Combat revolves around a deck of chips, CPU management and enemies with unusual 
 
 <td width="50%" valign="top">
 
-## 🎰 [GachaTracker](https://github.com/kazoom02/GachaTracker)
+<p>
+  <h2><strong>🎰 GachaTracker</strong><a href="https://github.com/kazoom02/GachaTracker">↗</a></h2>
+</p>
 
 A self-hosted pull tracker for:
 
@@ -106,7 +107,9 @@ A self-hosted pull tracker for:
 <tr>
 <td width="50%" valign="top">
 
-## 👗 [Glamour Viewer](https://github.com/kazoom02/Glamour-Viewer)
+<p>
+  <h2><strong>👗 Glamour Viewer</strong><a href="https://github.com/kazoom02/Glamour-Viewer">↗</a></h2>
+</p>
 
 A privacy-first browser application for previewing
 **FINAL FANTASY XIV glamour data**.
@@ -132,7 +135,9 @@ The viewer reads game data from files controlled by the user rather than uploadi
 
 <td width="50%" valign="top">
 
-## 🛠️ More Projects
+<p>
+  <h2><strong>🛠️ More Projects</strong><a href="https://github.com/kazoom02?tab=repositories">↗</a></h2>
+</p>
 
 I'm constantly experimenting with new ideas involving:
 
@@ -190,9 +195,8 @@ Check out my repositories to see what I'm currently working on.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazoom02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazoom02&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=kazoom02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=kazoom02&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
 
 </div>
 
@@ -256,4 +260,3 @@ Check out my repositories to see what I'm currently working on.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 
 </div>
-```
